@@ -1,5 +1,4 @@
-@import"https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap";
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 :root,
 .theme-dark,
 .theme-light {
@@ -218,7 +217,7 @@ body {
 
 html,
 body {
-    font-family: "Share Tech Mono", monospace
+    font-family: 'Poppins', sans-serif;
 }
 
 .appMount-2yBXZl,
