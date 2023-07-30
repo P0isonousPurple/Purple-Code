@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://use.typekit.net/sgh0zyo.css");
 :root,
 .theme-dark,
 .theme-light {
@@ -217,7 +217,7 @@ body {
 
 html,
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: niveau-grotesk, sans-serif;
 }
 
 .appMount-2yBXZl,
@@ -392,7 +392,7 @@ body {
 }
 
 .info-3pQQBb:last-child::after {
-    content: "Fallout 4 Terminal 2.0.3";
+    content: "Purple Code v0.0.6";
     font-size: 12px;
     line-height: 16px;
     color: rgb(var(--rgb-highlight))
